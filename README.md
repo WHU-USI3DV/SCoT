@@ -1,4 +1,4 @@
-# 3D-SCoT: Teaching 3D-LLMs to Think Spatially with Million-scale CoT Annotations
+# SCoT: Teaching 3D-LLMs to Think Spatially with Million-scale CoT Annotations
 
 This is the official PyTorch implementation of SCoT. 
 
